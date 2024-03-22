@@ -1,0 +1,4 @@
+2024-02-20T13:57:21+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\chic-dressing\wp-includes\widgets\class-wp-widget-meta.php à la ligne 144
+
+2024-02-20T13:58:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\chic-dressing\wp-includes\Requests\src\Transport\Curl.php à la ligne 510
+

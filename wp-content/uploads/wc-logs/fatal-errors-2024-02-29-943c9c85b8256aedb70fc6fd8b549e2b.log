@@ -1,0 +1,10 @@
+2024-02-29T09:08:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\chic-dressing\wp-includes\widgets\class-wp-widget-text.php à la ligne 582
+
+2024-02-29T09:08:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\chic-dressing\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Overrides\OrderRefund.php à la ligne 10
+
+2024-02-29T10:15:11+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\chic-dressing\wp-content\plugins\wp-seopress\src\Services\Context\ContextPage.php à la ligne 5
+
+2024-02-29T10:15:27+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\chic-dressing\wp-content\plugins\woocommerce\includes\wc-template-functions.php à la ligne 77
+
+2024-02-29T12:29:15+00:00 CRITICAL Out of memory (allocated 33554432) (tried to allocate 733184 bytes) in C:\MAMP\htdocs\chic-dressing\wp-includes\pomo\streams.php on line 229
+

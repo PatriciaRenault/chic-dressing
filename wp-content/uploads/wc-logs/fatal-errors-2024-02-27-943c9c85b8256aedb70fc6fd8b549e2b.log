@@ -1,0 +1,4 @@
+2024-02-27T14:24:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\chic-dressing\wp-includes\widgets\class-wp-widget-text.php à la ligne 582
+
+2024-02-27T19:32:01+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\chic-dressing\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\TrackingOptIn.php à la ligne 10
+
